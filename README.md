@@ -1,5 +1,5 @@
 # 🧠 Atividade – Anonimização e Pseudoanonimização de Dados Pessoais  
-**Aluno(a): [seu nome aqui]**  
+**Aluno(a): Lucas Willian de Souza Serpa e Ryan Gabriel**  
 **Dataset:** Operações de Exportação Pós-Embarque – BNDES  
 **Link:** [CSV BNDES](https://dadosabertos.bndes.gov.br/dataset/f27e48cd-653b-4bfa-bc4f-08b637793873/resource/0cfe4594-44bf-48a8-a79a-686fc2d0db95/download/operacoes-exportacao-operacoes-de-exportacao-pos-embarque-bens.csv)
 
