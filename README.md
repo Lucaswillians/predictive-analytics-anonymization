@@ -45,3 +45,11 @@ Para análises estatísticas ou preditivas, **é necessário proteger essas info
 
 O dataset do BNDES pode ser usado de forma ética e segura em análises estatísticas ou machine learning ao aplicar **anonimização e pseudoanonimização** nas colunas identificáveis (`cnpj_do_exportador`, `numero_da_operacao`, `exportador`).  
 Essas técnicas garantem **privacidade e conformidade** enquanto preservam a utilidade analítica dos dados.
+
+
+
+## Graficos results
+
+<img width="944" height="700" alt="image" src="https://github.com/user-attachments/assets/8767863f-77cd-40de-a339-152e5cb8ec1d" />
+
+<img width="943" height="700" alt="image" src="https://github.com/user-attachments/assets/bebf4aee-2e29-4f9f-a20a-6fa16faee31c" />
